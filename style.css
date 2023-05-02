@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: darkcyan;
+}
+h1{
+    font-size: 90px;
+   color:burlywood;
+    /* font-family: 'Konkhmer Sleokchher', cursive;*/
+} 
+
+button{
+    color:  red;
+    font-style: oblique;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 3px solid brown;
+}
+.w{
+ background-image: url("images/tom1.png");
+}
+.a{
+background-image:url("images/tom2.png");
+}
+.s{
+background-image:url("images/tom3.png");
+}
+.d{
+    background-image:url("images/tom4.png");
+}
+.j{
+background-image:url("images/snare.png");
+}
+.k{
+background-image:url("images/crash.png");
+}
+.l{
+background-image:url("images/kick.png");
+
+}
+footer{
+    margin-top: 200px;
+    color: bisque;
+}
